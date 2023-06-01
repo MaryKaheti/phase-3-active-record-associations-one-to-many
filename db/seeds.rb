@@ -1,4 +1,6 @@
 puts "🌱 Seeding data..."
+# Set the locale for Faker to 'en-US'
+# Faker::Config.locale = 'en-US'
 
 # run a loop 50 times
 50.times do
